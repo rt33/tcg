@@ -1,0 +1,25 @@
+# env
+env.config.js
+
+# JetBrains
+.idea/
+
+# Mac
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# npm
+npm-debug*.log
+
+# node
+node_modules/
+
+# dist
+dist/
